@@ -1,8 +1,21 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        counts = {}
-        for i in nums:
-            counts[i] =counts.get(i,0)+1
-        for k,v in counts.items():
-            if v > (len(nums))//2:
-                return k
+        # boyer-moore algorith
+        count =0
+        candidate = None
+        for num in nums:
+            if count == 0:
+                candidate = num
+                count =1
+            elif candidate == num:
+                count+=1
+            else:
+                count-=1
+        actualCount = nums.count(candidate)
+        if actualCount > len(nums)//2:
+            return candidate
+        else:
+            return None                    
+
+
+       
