@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ishachenna09/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ishachenna09/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ishachenna09/Leetcode/tree/master/0268-missing-number) |
 ## Math
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ishachenna09/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/ishachenna09/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ishachenna09/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ishachenna09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ishachenna09/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ishachenna09/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ishachenna09/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
