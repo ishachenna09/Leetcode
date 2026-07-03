@@ -12,9 +12,9 @@ class Solution:
            nex = current.next
            current.next = prev
            prev =current
-           head = current
+        #    head = current
            current = nex
-        return head    
+        return prev    
             
 
 
