@@ -8,7 +8,11 @@ class Solution:
         current = head
         slow = head
         fast=head
-        #finding mid point 
+        if not head and head.next is None:
+            return True
+            
+         #finding mid point 
+
         while fast.next and fast.next.next:
             # prev=slow
             slow = slow.next
