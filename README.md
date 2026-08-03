@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishachenna09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ishachenna09/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ishachenna09/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/ishachenna09/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ishachenna09/Leetcode/tree/master/0283-move-zeroes) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/ishachenna09/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ishachenna09/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
