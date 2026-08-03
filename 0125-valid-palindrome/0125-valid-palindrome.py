@@ -2,7 +2,7 @@ class Solution:
     def isPalindrome(self, s: str) -> bool:
         i=0
         j=len(s)-1
-        while i<=j and j>=0:
+        while i<=j :
             if not s[i].isalnum():
                 i+=1
             elif not s[j].isalnum():
@@ -13,8 +13,8 @@ class Solution:
                 else:
                     i+=1
                     j-=1     
-        
-        return True                 
+        return True
+
         # ns=""
         # for i in s :
         #     if i.isalnum():
