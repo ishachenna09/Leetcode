@@ -9,5 +9,5 @@ class Solution:
                 seen.remove(s[l])
                 l+=1
             seen.add(s[r])
-            maxlen = max(maxlen, r-l+1)     
+            maxlen = max(maxlen, len(seen))     
         return maxlen
