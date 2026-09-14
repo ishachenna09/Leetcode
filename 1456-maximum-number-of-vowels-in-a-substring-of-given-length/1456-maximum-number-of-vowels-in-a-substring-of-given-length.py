@@ -9,6 +9,8 @@ class Solution:
             if i in vowels:
                 vc+=1
         mvc = vc
+        if mvc == k:
+            return mvc
         for j in range(k, len(s)):
             if s[j-k] in vowels:
                 if vc>0:
