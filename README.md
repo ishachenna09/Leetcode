@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishachenna09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/ishachenna09/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ishachenna09/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ishachenna09/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ishachenna09/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ishachenna09/Leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ishachenna09/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ishachenna09/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ishachenna09/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ishachenna09/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ishachenna09/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ishachenna09/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ishachenna09/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ishachenna09/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ishachenna09/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ishachenna09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
