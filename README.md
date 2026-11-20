@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ishachenna09/Leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ishachenna09/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/ishachenna09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishachenna09/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ishachenna09/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishachenna09/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishachenna09/Leetcode/tree/master/0268-missing-number) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishachenna09/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ishachenna09/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishachenna09/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ishachenna09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishachenna09/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ishachenna09/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ishachenna09/Leetcode/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishachenna09/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishachenna09/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Matrix
 |  |
 | ------- |
